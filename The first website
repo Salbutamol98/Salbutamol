@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <header>
+    <titile> Welcome to my first website!</title>
+      <nav></nav>
+    </header>
+    <main>
+    <h1>Hello the world!</h1>
+    </main>
+  </body>
+</html>
